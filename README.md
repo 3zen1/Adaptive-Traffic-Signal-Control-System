@@ -73,7 +73,7 @@ The goal of this work is to improve intelligent transport systems by developing 
 algorithm to control road traffic based on deep Learning. This new system facilitates the
 movement of cars in intersections, resulting in reducing congestion, less CO2 emissions, etc.
 The richness that video data provides highlights the importance of advancing the state-of-the-art
-in object detection, classication and tracking for real-time applications. YOLO provides
+in object detection, classification and tracking for real-time applications. YOLO provides
 extremely fast inference speed with slight compromise in accuracy, especially at lower
 resolutions and with smaller objects. While real-time inference is possible, applications that
 utilize edge devices still require improvements in either the architecture’s design or edge
